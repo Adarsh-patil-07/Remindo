@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+*.apk
+*.apk.idsig
+.DS_Store
+android/build/
+android/.gradle/
+android/app/build/

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "350116454586",
+    "project_id": "remindo-20",
+    "storage_bucket": "remindo-20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350116454586:android:fe11a989f38569aca32283",
+        "android_client_info": {
+          "package_name": "com.remindo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350116454586-jgp30kvrf76ounlbojnp07id5jmhvus5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.remindo.app",
+            "certificate_hash": "890bc0031b5ea5195ecb33ddd7d3b028d73bdde8"
+          }
+        },
+        {
+          "client_id": "350116454586-duihdptdccnuj0lucve3lkevtu5g256c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbw_TdGehODw6XzavVSVKBGzzsQbbxQrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350116454586-duihdptdccnuj0lucve3lkevtu5g256c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
